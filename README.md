@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ifehub
 - 👀 I’m interested in javascript, css, bootrap, react, nodejs, php, mySQL
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning nodejs
 - 💞️ I’m looking to collaborate on ... Open source project
 - 📫 How to reach me ... ifeoluwatemitope1212@gmail.com
 - 😄 Pronouns: ... Mr 
